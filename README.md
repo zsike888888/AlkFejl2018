@@ -40,4 +40,8 @@ Cikk törlésénél a program megerősítést kér a felhasználótól.
 
 # A feladat nem funkcionális követelményei:
 
+-Legyen felhasználóbarát
+-Legyen áttekinthető
+-Legyen könnyen használható nem hozzáértőknek is
+
 # Szerepkörök:
