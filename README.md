@@ -45,3 +45,5 @@ Cikk törlésénél a program megerősítést kér a felhasználótól.
 -Legyen könnyen használható nem hozzáértőknek is  
 
 # Szerepkörök:
+
+Coming soon...  
