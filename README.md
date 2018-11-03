@@ -47,3 +47,5 @@ Cikk törlésénél a program megerősítést kér a felhasználótól.
 # Szerepkörök:
 
 Coming soon...  
+
+gittest
